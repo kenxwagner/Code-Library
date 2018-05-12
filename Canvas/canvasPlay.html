@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+var newSize = 10;
+var numberChoice = prompt("Please enter a number", "100");
+
+if (numberChoice == null || numberChoice == "") {
+    newSize = 100;
+} else {
+    newSize = numberChoice;
+} 
+
+function draw() {
+	//test alert("I see you!");
+	var ctx = document.getElementById('lilcanvas').getContext('2d');
+
+	ctx.fillStyle = "#FFFF00";
+	ctx.strokeStyle = "#5A9BD5";
+	ctx.lineWidth = 100;
+	ctx.fillRect(85, 85, 300, 300);
+	ctx.strokeRect(85, 85, 300, 300);
+
+	
+}
+window.onload = draw;
+</script>
+
+</head>
+<body>
+
+<canvas id="lilcanvas" width="500" height="500">
+Sorry, your browser does not support the HTML5 canvas tag.</canvas>
+
+</script> 
+
+</body>
+</html>
