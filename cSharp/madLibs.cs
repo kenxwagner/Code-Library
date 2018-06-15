@@ -9,11 +9,15 @@ namespace MadLibs_time
 	{
 		static void Main(string[] args)
 		{
-			string madLibs =@"";
+			string madLibs =@"We need a story.";
 			
 			StringBuilder sb = new StringBuilder();
 			Regex pattern = new Regex(@"\<(.*?)\>");
+			string storyLine;
+			string replacement;
 			
+			Console.WriteLine(madLibs + Enviroment.NewLine + Enviroment.NewLine);
+			Console.WriteLine("Enter a story");
 		}
 		
 	}
