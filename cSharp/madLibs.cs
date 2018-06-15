@@ -18,6 +18,15 @@ namespace MadLibs_time
 			
 			Console.WriteLine(madLibs + Enviroment.NewLine + Enviroment.NewLine);
 			Console.WriteLine("Enter a story");
+			
+			do
+			{
+				storyLine = Console.ReadLine();
+				sb.Append(storyLine + Enviroment.NewLine);
+			} while (!string.IsNullOrEmpty(storyLine) && !string.IsNullOrWhiteSpace(storyLine));
+			
+			
+			
 		}
 		
 	}
