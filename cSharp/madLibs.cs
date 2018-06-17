@@ -41,6 +41,22 @@ namespace MadLibs_time
 				
 			}
 			
+			foreach (Match match in pattern.Matches(sb.ToString()))
+			{
+				replacement = string.Empty; //this avoids whitespace value
+				do
+				{
+					Console.WriteLine("Enter value for: " + match.Value);
+					replacement = Console.ReadLine();
+				}
+				while (string.IsNullOrEmpty(replacement) || string.IsNullOrWhiteSpace(replacement));
+				
+				int location = sb.ToString().IndexOf(match.Value);
+				sb.Remove(location, match.Value.Length).Insert(location, replacement);
+			}
+			
+			Console.WriteLine(Enviroment.NewLine + Enviroment.NewLine + "--[ Here's your story! ]--");
+			Console.WriteLine(sb.ToString());
 			
 		}
 		
