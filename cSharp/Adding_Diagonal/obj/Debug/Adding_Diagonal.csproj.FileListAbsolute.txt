@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\Adding_Diagonal\bin\Debug\Adding_Diagonal.exe.config
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\Adding_Diagonal\bin\Debug\Adding_Diagonal.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\Adding_Diagonal\bin\Debug\Adding_Diagonal.pdb
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\Adding_Diagonal\obj\Debug\Adding_Diagonal.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\Adding_Diagonal\obj\Debug\Adding_Diagonal.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\Adding_Diagonal\obj\Debug\Adding_Diagonal.pdb

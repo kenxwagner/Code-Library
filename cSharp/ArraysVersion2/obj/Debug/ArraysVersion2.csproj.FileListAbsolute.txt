@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\ArraysVersion2\bin\Debug\ArraysVersion2.exe.config
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\ArraysVersion2\bin\Debug\ArraysVersion2.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\ArraysVersion2\bin\Debug\ArraysVersion2.pdb
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\ArraysVersion2\obj\Debug\ArraysVersion2.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\ArraysVersion2\obj\Debug\ArraysVersion2.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\ArraysVersion2\obj\Debug\ArraysVersion2.pdb

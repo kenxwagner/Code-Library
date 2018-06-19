@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\GitHub\EngineeringAssignment\IceCreamClub\IceCreamClub\bin\IceCreamClub.dll.config
+C:\Users\Ken\Documents\GitHub\EngineeringAssignment\IceCreamClub\IceCreamClub\bin\IceCreamClub.dll
+C:\Users\Ken\Documents\GitHub\EngineeringAssignment\IceCreamClub\IceCreamClub\bin\IceCreamClub.pdb
+C:\Users\Ken\Documents\GitHub\EngineeringAssignment\IceCreamClub\IceCreamClub\obj\Debug\IceCreamClub.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\EngineeringAssignment\IceCreamClub\IceCreamClub\obj\Debug\IceCreamClub.dll
+C:\Users\Ken\Documents\GitHub\EngineeringAssignment\IceCreamClub\IceCreamClub\obj\Debug\IceCreamClub.pdb

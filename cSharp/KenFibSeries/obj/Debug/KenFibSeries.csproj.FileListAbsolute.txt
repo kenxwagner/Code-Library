@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\KenFibSeries\bin\Debug\KenFibSeries.exe.config
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\KenFibSeries\obj\Debug\KenFibSeries.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\KenFibSeries\bin\Debug\KenFibSeries.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\KenFibSeries\bin\Debug\KenFibSeries.pdb
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\KenFibSeries\obj\Debug\KenFibSeries.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\KenFibSeries\obj\Debug\KenFibSeries.pdb

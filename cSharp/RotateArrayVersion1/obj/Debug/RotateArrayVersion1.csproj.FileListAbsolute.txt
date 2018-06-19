@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\RotateArrayVersion1\bin\Debug\RotateArrayVersion1.exe.config
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\RotateArrayVersion1\bin\Debug\RotateArrayVersion1.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\RotateArrayVersion1\bin\Debug\RotateArrayVersion1.pdb
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\RotateArrayVersion1\obj\Debug\RotateArrayVersion1.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\RotateArrayVersion1\obj\Debug\RotateArrayVersion1.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\RotateArrayVersion1\obj\Debug\RotateArrayVersion1.pdb
